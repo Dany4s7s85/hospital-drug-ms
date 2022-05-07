@@ -1,0 +1,12 @@
+.mainDiv{
+    margin: 20px;
+}
+
+.customCard{
+    background-color: #404040;
+    color:  #ffffff;
+}
+
+.customCard h5{
+    text-align: center;
+}
